@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+mis notas de la semana 
 ---
 
 example content
